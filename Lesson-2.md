@@ -19,3 +19,17 @@ Getting started
 2. Save index.html and load it in your browser.
 
 ![Anatomy of a CSS ruleset](/images/img-2.png)
+
+* `font-family`
+* `font-weight`
+* `font-size`
+* `color`
+
+* `margin` (`maring-top`, `maring-right`, `maring-bottom`, `maring-left`)
+* `padding` (`padding-top`, `padding-right`, `padding-bottom`, `padding-left`)
+
+* `background`
+
+
+* html: `<p class="ClassName"></p>` css: `.ClassName { ... }`
+* html: `<p id="IdName"></p>` css: `#IdName { ... }`
