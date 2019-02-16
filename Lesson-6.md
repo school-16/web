@@ -33,3 +33,7 @@ git add .
 git commit -m 'Make some changes'
 git push -u origin branch-name
 ```
+
+```bash
+git pull origin master
+```
