@@ -16,3 +16,9 @@ Introduction to web development
 4. [9нчы дәрес](/Lesson-5.md). Объект юнәлтеләгән программалаштыру (OOP). :rage3: [*16.03*]
 4. [10нчы дәрес](/Lesson-5.md). ReactJS. :goberserk: [*23.03*]
 4. [11нче дәрес](/Lesson-5.md). Redux. :finnadie: [*30.03*]
+
+Чыганаклар
+----------
+
+1. [freecodecamp.org](https://www.freecodecamp.org/) - HTML, CSS, JavaScript курслары
+2. [egghead.io](https://egghead.io/)
