@@ -1,6 +1,19 @@
 # Git :octocat:
 
+## Github.com
+
+1. [github.com](https://github.com) сайтында теркәлегез.
+2. school-16 организациясенә керегез.
+3. Почтага килгән хатлар аша теркәлүне һәм организациягә керүне раслагыз.
+4. Беренче репозиториягезне ясагыз.
+
 ## Башлау
+
+1. [git](https://git-scm.com/downloads) программасын уранштырышыз.
+2. VS Code-ка кереп `Ctrl + Shift + P` төймәләренә басып, (`Select Default Shell`) теримнал итеп `bash`ны сайлагыз.
+3. Терминалны ачыгыз (<pre>Ctrl + `</pre>)
+
+## Gitны көйләү
 
 ```bash
 git config --global user.name "Your Name"

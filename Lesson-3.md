@@ -9,3 +9,6 @@
 * `height`
 * `min-height`
 * `max-height`
+
+* `position: relative | absolte | fixed | inherite`
+* `display: block | inline | inline-block | flex | inline-flex`

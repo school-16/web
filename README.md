@@ -12,10 +12,10 @@ Introduction to web development
 4. [5нчек дәрес](/Lesson-5.md). Bootstrap. [*09.02*]
 4. [6нчы дәрес](/Lesson-6.md). Git. :octocat: [*16.02*]
 4. [7нче дәрес](/Lesson-7.md). Node.js. Беренче веб сервер. :godmode: [*02.03*]
-4. [8нче дәрес](/Lesson-5.md). JavaScript. Кереш. :suspect: [*09.03*]
-4. [9нчы дәрес](/Lesson-5.md). Объект юнәлтеләгән программалаштыру (OOP). :rage3: [*16.03*]
-4. [10нчы дәрес](/Lesson-5.md). ReactJS. :goberserk: [*23.03*]
-4. [11нче дәрес](/Lesson-5.md). Redux. :finnadie: [*30.03*]
+4. 8нче дәрес. JavaScript. Кереш. :suspect: [*09.03*]
+4. 9нчы дәрес. Объект юнәлтеләгән программалаштыру (OOP). :rage3: [*16.03*]
+4. 10нчы дәрес. ReactJS. :goberserk: [*23.03*]
+4. 11нче дәрес. Redux. :finnadie: [*30.03*]
 
 Чыганаклар
 ----------
